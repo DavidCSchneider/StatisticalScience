@@ -1,0 +1,17 @@
+Elev(ft),Ele (km),SP,HZYG,Fits,Res,,"Heterozygosity in two species of fruit fly, as a function of Elevation (feet)",,,,,,,D.persimilis (SP=0)
+850,0.25908,Dpers,0.59,0.547082429,0.04292,,"Data by Th. Dobzhansky (1948), taken from Brussard, 1984",,,,,,,D. pseudoobscura (SP=1)
+3000,0.91440,Dpers,0.37,0.463666266,-0.09367,,,,,,,,,
+4600,1.40208,Dpers,0.41,0.401589121,0.00841,,,,,,,,,
+6200,1.88976,Dpers,0.40,0.339511977,0.06049,,Data on Inversion heterozygosity (assuming HardyWeinberg equilibrium),,,,,,,
+8000,2.43840,Dpers,0.31,0.269675189,0.04032,,of 3rd chromosome inversions in Drosophila pseudoobscura ,,,,,,,
+8600,2.62128,Dpers,0.18,0.24639626,-0.06640,,and Drosophila persimilis in relation to altitude ,,,,,,,
+10000,3.04800,Dpers,0.20,0.192078758,0.00792,,in Yosemite Park.  Data from P.F. Brussard 1984.  Geographic patterns and ,,,,,,,
+850,0.25908,Dpseudo,0.70,0.707920519,-0.00792,,environmental gradients: The central-marginal model in Drosophila ,,,,,,,
+3000,0.91440,Dpseudo,0.69,0.698452989,-0.00845,,revisited. Annual Review of Ecology and Systematics 15: 25-64.,,,,,,,
+4600,1.40208,Dpseudo,0.71,0.691407385,0.01859,,,,,,,,,
+6200,1.88976,Dpseudo,0.70,0.684361781,0.01564,,Based on data collected by Th. Dobzhansky 1948 Genetics 33:158-176,,,,,,,
+8000,2.43840,Dpseudo,0.70,0.676435477,0.02356,,,,,,,,,
+8600,2.62128,Dpseudo,0.62,0.673793376,-0.05379,,,,,,,,,
+10000,3.04800,Dpseudo,0.68,0.667628473,0.01237,,,,,,,,,
+
+,,,,,,,

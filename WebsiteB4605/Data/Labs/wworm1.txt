@@ -1,0 +1,28 @@
+4 3    0 2    2 5    3 1    1 4
+1 6    3 0    0 6    2 4    4 4
+0 4    1 9    3 1    4 6    2 5
+2 17   4 8    1 8    0 9    3 0
+3 4    2 4    4 2    1 4    0 8
+
+T  N   T N    T N    T N    T N
+
+T = treatment:  0 = control   1,2,3,4  = 4 soil fumigants
+N = number of wire worms per 9 x 9 x 5 inch plot
+Plots are arranged in a 5 x 5 array.  Each treatment occurs in 
+   each row, and in each column.  This is called a Latin Square
+
+Data from Snedecor and Cochran 1980 p 289.
+
+MTB > read 'Wworm1.dat' c1-c10;
+SUBC> nobs = 5.
+MTB > stack c1 c3 c5 c7 c9 c11
+MTB > stack c2 c4 c6 c8 c10  c12
+MTB > name c11 'trtmnt'  c12 'count'
+MTB > set c13
+DATA> (1 2 3 4 5)5
+DATA> end
+MTB > set c14
+DATA> 5(1 2 3 4 5)
+DATA> end
+MTB > name c13 'rows'  c14 'col'
+

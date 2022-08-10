@@ -1,0 +1,28 @@
+Subject,Drug,Hrs,fits,res,,Hours of extra sleep,
+1,Drug A,0.7,0.51,0.19,,Hyoscyamine (Drug A) vs L Hyoscine (Drug B),
+2,Drug A,-1.6,-1.19,-0.41,,,
+3,Drug A,-0.2,-0.34,0.14,,Data used by Gosset in paper introducing the t-test and t-distribution.,
+4,Drug A,-1.2,-1.34,0.14,,See also Table 27 in Fisher 1925 ,
+5,Drug A,-0.1,-0.89,0.79,,STATISTICAL METHODS FOR RESEARCH WORKERS,
+6,Drug A,3.4,3.11,0.29,,,
+7,Drug A,3.7,3.81,-0.11,,,
+8,Drug A,0.8,0.41,0.39,,,
+9,Drug A,0.0,1.51,-1.51,,,
+10,Drug A,2.0,1.91,0.09,,,
+1,Drug B,1.9,2.09,-0.19,,,
+2,Drug B,0.8,0.39,0.41,,,
+3,Drug B,1.1,1.24,-0.14,,,
+4,Drug B,0.1,0.24,-0.14,,,
+5,Drug B,-0.1,0.69,-0.79,,,
+6,Drug B,4.4,4.69,-0.29
+7,Drug B,5.5,5.39,0.11
+8,Drug B,1.6,1.99,-0.39
+9,Drug B,4.6,3.09,1.51
+10,Drug B,3.4,3.49,-0.09
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

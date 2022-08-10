@@ -1,0 +1,54 @@
+Subject: Re: Biol 4605 website
+To: David Schneider <a84dcs@mun.ca> 
+From: pearle@mun.ca
+
+
+Hello David. 
+
+
+There are two options for you while you are learning the process. The
+first is to use your own account on plato which you would access via the
+URL http://www.ucs.mun.ca/~dschneider. The same password you use to
+access e-mail would work. You have to create a sub-directory called .www
+and change the read permissions on that and then any file you ftp'ed
+into to that would show up on the web. Full instructions are on the MUN
+C&C web site. Any files first set up here can be easily moved over
+subsequently to the biology site.
+
+
+The second route is to do everything directly on the biology site which
+is accessed through: 
+http://www.mun.ca/biology/schneider/b4605. For the time being to ftp
+files use an account in my name:
+host: plato.ucs.mun.ca
+account: pearle
+password: ocsmatw%%  (PLEASE DO NOT CHANGE THIS PASSWORD. Other people
+are using it too.)
+
+
+Then change directory to /info/www/docs/biology/schneider/b4605 and add
+your files. Be careful though. This is Unix - if you accidentally delete
+something important to the biology site then its really gone.
+
+
+I'm in Europe for the next couple of weeks so you won't be able to
+contact me until after May 15. 
+
+
+Cheers,
+Peter  
+
+
+
+On Mon, 2003-04-28 at 16:22, David Schneider wrote:
+> Peter, I have learned how to write simple webpages and
+> I would now like to direclty access the Biol 4605 website
+> so I can work on it.
+> 
+> Could we set up something where I can move files via ftp?
+> 
+> I would need to know the computer name, is it
+> calcium.biology.mun.ca ?
+> 
+> David S.
+> ----
