@@ -1,0 +1,36 @@
+<h2>BIOL7220. Model-Based Statistics in Biology.</h2>
+<p><br>
+<b>Instructor</b>: David Schneider</p>
+<table cellpadding="0" cellspacing="0" width="90%">
+<tbody>
+<tr>
+<td>Tel: 737 8841<br>
+EMail: David.Schneider@mun.ca</td>
+<td>
+<div>Office: 4 Clark Pl<br>
+Hours: After class or by appointment</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table cellpadding="0" cellspacing="0" width="85%">
+<tr>
+<td><b>Course Summary.</b>The goal of this course is for you to
+learn how to apply quantitative methods to the solution of problems
+in biology. You won't learn all the answers to specific questions
+but you should develop the skill to find the solution yourself!
+Skill and confidence come with practice, so assignments and quizzes
+will be short and frequent rather than lengthy and infrequent.
+Lecture material will emphasize principles of good quantitative
+analysis, illustrated by complete examples. Laboratories will cover
+the computational aspects of problem solving.</td>
+<td><img src="../../dschneider/b7220/Triangle.JPG" alt="Triangle"
+style="width: 110px; height: 110px;"></td>
+</tr>
+</table>
+<p><br>
+<a href="../../dschneider/b7220/Syllabus2009.pdf">Syllabus</a></p>
+
+<p><a href="../../dschneider/b7220/B7220Reports.pdf">Grad
+Project</a></p>
