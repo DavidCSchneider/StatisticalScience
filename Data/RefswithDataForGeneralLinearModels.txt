@@ -1,0 +1,77 @@
+Refs with data for GLM with 2 factors (2 way ANOVA)
+
+Boyd JT. 1960. Climate, air pollution, and mortality.
+British Journal of  Preventive and Social Medecine 14: 123-135.
+
+Eberhardt LL. Transect Methods for Population Studies. 1978.
+The Journal of Wildlife Management 42: 1-31
+
+Heitman H, et al. 1958. Ambient air temperature and weight 
+gain in swine. Journal of Animal Science 17: 62-67.
+________________________________________________________________________
+
+Refs with data for GLM with 3 factors (3 way ANOVA)
+
+Berven and Grudzien. 1990. Dispersal in the Wood Frog (Rana sylvatica): 
+Implications for genetic population structure.  Evolution 44: 2047-2056.
+
+_______________________________________________________________________
+
+Refs with data for GLM (miscellaneous)
+
+Bekkevold et al.  2002. Male reproductive competition in spawning aggregations 
+of cod (Gadus morhua L.).  Molecular Ecology 11: 91-102
+
+Tangolar et al. 2009.  Evalution of fatty acid profiles and mineral content 
+of grape seed oil of some grape genotypes.  International Journal of Food 
+Sciences and Nutrition 60: 32-39.
+
+Ohlund et al. 2008.  Life history and large-scale habitat use of brown trout 
+(Salmo trutta) and brook trout (salvelinus fontinalis) - Implications for
+species replacement patterns.  Canadian Journal of Fisheries and Aquatic
+Sciences 65: 633-644.
+
+Beland et al. 1995.  Six-month toxicity comparison of the antituberculosis 
+drugs Aconiazide and Isoniazid in Fischer 344 Rats 
+International Journal of Toxicology 14: 328-342.
+
+De Wet. 1960. Chromosome numbers and some morphological attributes of Various 
+South African grasses.  American Journal of Botany 47: 44-49.
+
+Guild. 1952.  Variation in earthworm numbers within field populations.
+Journal of Animal Ecology 21: 169-181.
+
+Ramesh and Murty. 1977. Variation and inheritance of relative length of 
+index finger in man. Annals of Human Biology 4: 479-484.
+
+Barnwal and Pau. 1988. Analysis of one-Way layout of count data with 
+negative binomial variation. Biometrika 75: 215-222.
+
+Gwirtsman et al. 1989. Decreased caloric intake in normal-weight patients 
+with bulimia: comparison with female volunteers 
+American Journal of Clinical Nutrition 49: 86-92.
+
+DeBeer and Sharp. 2007. Recent changes in glacier area and volume within
+the southern Canadian Cordillera.  Annals of Glaciology 46: 215-221.
+
+Reed. 1935. Physiologic specialization of the parasitic fungi. Botanical 
+Review 1: 119-137.
+
+Byers. 2008. The impact of socioeconomic status on survival after cancer 
+in the United States : Findings from the National Program of Cancer 
+Registries Patterns of Care Study.  Cancer 113: 582-591.
+
+Fine and Bosch. 2000. Risk Assessment via a robust probit model, with 
+application to toxicology.  Journal of the American Statistical Association
+95: 375-382.
+
+Allen and Keller. 1991. Uraba lugens (Lepidoptera: Noctuidae) and its 
+parasitoids (Hymenoptera: Braconidae): Temperature, host size, and development. 
+Environmental Entomology 20: 458-469.
+
+Greenblatt et al. 1977. Factors influencing blood concentrations of 
+chlordiazepoxide: A use of multiple regression analysis.
+Psychopharmacology 54: 277-282.
+
+
+
