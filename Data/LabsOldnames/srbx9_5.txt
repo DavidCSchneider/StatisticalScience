@@ -1,0 +1,18 @@
+  7.2	8.8
+  7.1	7.5
+  9.1	7.7
+  7.2	7.6
+  7.3	7.4
+  7.2	6.7
+  7.5	7.2
+Data from Box 9.5 Sokal and Rohlf 1995.
+Data from Table 9.2 in Sokal and Rohlf 2012
+Age (days) at first reproduction in two
+  genetic strains (Strain I and II) of Daphnia longispina.
+MTB > read 'srbx9_5.dat' c1 c2;
+SUBC> nobs=7.
+MTB > stack c1 c2 c3
+MTB > set  c4
+DATA> (0 1)7
+DATA> end
+MTB > name c3 'age'  c4 'Strain'

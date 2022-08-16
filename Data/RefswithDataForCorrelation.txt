@@ -1,0 +1,79 @@
+Refs with data for correlation.  
+In many cases correlation is not used in the article itself.
+
+Cartwright, L et al. 2014. Urban noise affects song structure and daily 
+patterns of song production in red-winged blackbirds (Agelaius phoeniceus).
+Urban Ecosystems 17: 561-572. 
+
+Cavanaugh PR and R Cram. 1989.  Stride length in distance running: velocity, 
+body dimenions, and added mass effects.  Medicine and Science in Sports and 
+Exercise 21: 467-479.
+
+Coelho, FC & Smatresk, NJ 2003. Resting respiratory behaviour in minimally
+instrumented toads- effects of very long apneas on blood gases and ph. 
+Braz. J. Biol. 63(1): 34-45.
+
+De Souza CR, et al. 2005.  Impact of deficit irrigation on water use 
+efficiency and carbon isotope composition of field-grown grapevines 
+under Mediterranean climate.  Journal of Experimental
+Botany 56: 2163-2172.
+
+France, CAM et al. 2014. Stable isotope indicators of provenance and 
+demographics in 18th and 19th century North Americans. 
+Journal of Archaeological Science 42: 356-366.
+
+Fyler DC, et al. 1958. Ventricular septal defect in infants 
+and children: A correlation of clinical, physiologic, and 
+autopsy data. Circulation 18: 833-851.  Table 10.
+
+Gómez MA, et al.  2002.  Effect of dissolved 
+oxygen concentration on nitrate removal from groundwater using a 
+denitrifying submerged filter. Journal of Hazardous Materials 90:267-278.
+
+Hall GE, et al. 2011. Loss of rachis cell viability is associated with
+ripening disorders in grapes.  Journal of Experimenal Botany 62: 1145-1153.
+
+Hausdorf, B. 2006. Is the interspecific variation of body size of land 
+snails correlated with rainfall in Israel and Palestine?  
+Acta Oecologia 30: 274-379.
+
+Jinks JL. 1954. The analysis of continuous variation in a diallel cross
+of Nicotiana rustica varieties. Genetics 39: 767-788.
+
+Lieber M.  1952. The incidence of gallstones and their
+correlation with other diseases. Annals of Surgery 135: 394–405
+Table X.
+
+Madsen V, et al. 2004. Bimodal signaling of a sexually selected trait:
+gular pouch drumming in the Magnificent Frigatebird.  Condor 106: 156-160.
+
+Matthews R. 2000. Storks deliver babies (p = 0.008).  
+Teaching Statistics 22:36-38.
+
+Pauly D. 1980. On the interrelationships between natural mortality,
+growth parameters, and mean environmental temperature in 175 fish stocks.
+Journal du Conseil International pour l'Exploration de la Mer 39: 175-192.
+
+Poulin R. 2000.  Variation in the intraspecific relationship between
+fish length and intensity of parasitic infection: Biological and 
+statistical causes.  Journal of Fish Biology 56: 123-137.
+
+Roth N et al. 1996.  Landscape influences on stream biotic integrity 
+assessed at multiple spatial scales.  Landscape Ecology 11: 141-156.
+
+Tramo et al. 1998. Brain size, head size, and IQ in monozygotic
+twins.  Neurology 50: 1246-1252.
+
+Valkenburgh, B.V., Curtis, A., Samuels, J.X., Bird, D., Fulkerson, B.,
+Meachean-Samuels, J., & Slater, G.J. 2011. Aquatic adaptations of the nose of
+carnivores: Evidence from the turbinates. Journal of Anatomy 218: 298-310. 
+
+Wright, S. 1934. A mutation of the guinea pig, tending to restore the
+pentadactyl foot when heterozygous, producing a monstrosity when homozygous.
+
+Wright S. 1954.  An analysis of variability in number of digits 
+in an inbred strain of guinea pigs. Heredity 19: 506-536.
+
+Yamashita, C.Y., Matsushita, Y & Azuno, T. Catch performance of coastal squid
+jigging boats using LED panels in combination with metal halide lamps.
+Fisheries research 113(1): 182-189.

@@ -1,0 +1,30 @@
+11  6   6  0   16  13
+ 8  0   6  2   13  10
+ 5  2   7  3   11  18
+14  8   8  1    9   5
+19 11  18 18   21  23
+ 6  4   8  4   16  12
+10 13  19 14   12   5
+ 6  1   8  9   12  16
+11  8   5  1    7   1
+ 3  0  15  9   12  20
+
+ B  A   B  A    B   A
+
+ TRI    TRII    Control
+
+Scores for Leprosy bacilli before (B) and after (A) treatment
+with two types of antibiotics, and one control (C)
+
+Data from Snedecor and Cochran 1980 p 368.
+
+MTB > read 'leprosy.dat' c1-c6;
+SUBC> nobs = 10.
+MTB > stack c1 c3 c5 c7
+MTB > stack c2 c4 c6 c8
+MTB > name c7 'bef'  c8 'aft'
+MTB > set c9
+DATA> (1 2 3)10
+DATA> end
+MTB > name c9 'trtmnt'
+
