@@ -1,0 +1,35 @@
+library(readr)
+DarwinCornData <- read_csv("C:/Users/a84dcs/Desktop/DarwinCornData.csv")
+View(DarwinCornData)
+# Fixed effect model - Inference to 4 pots only
+PotModelFixed<-lm(Height~Pot*Pollination, data=DarwinCornData)
+plot(PotModelFixed)
+hist(resid(PotModelFixed))
+# Comment on the assumptions
+anova(PotModelFixed)
+#--------------------------------------------
+# Mixed effect model - Inference to population of pots
+# Use results of fixed effect model
+Fpot<-51.352/7.449   #MSPollination / MSPot*Pollination 
+prF <- 1-pf(Fpot,1,3)
+prF    # Compare to fixed effect result
+#--------------------------------------------
+# Use lmer to run mixed effect model
+library("lme4", lib.loc="~/R/win-library/3.3")
+PotModelMixed<-lmer(Height~Pollination + (1 | Pot), data=DarwinCornData)
+plot(PotModelMixed)
+hist(resid(PotModelMixed))
+#Comment on assumptions
+#Compare to diagnostics for fixed model
+summary(PotModelMixed)   #Note the residual variance
+anova(PotModelMixed, type= 1)
+# Note MSPollination
+# Calculate MSPollination / MSresidual 
+# Compare your calculation to anova F value
+# Calculate prF, using 1 and 3 df
+# Compare F and prF for Pollination for:
+# Fixed effect model
+# Mixed effect model from fixed effect SS
+# Mixed effect model from mixed effect (lmer) model
+#------------------------------------------------
+# Now do the analysis using Pairs instead of Pots

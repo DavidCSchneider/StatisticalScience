@@ -1,0 +1,6 @@
+Diatom population structure in 58 lakes in the Hudson Bay Lowlands: 
+An Exploratory Data Analysis usaing Principle Component Analysis
+Molly M. Morrissey
+
+
+http://www.mun.ca/biology/schneider/b4605/GradProj/MollyMorrisseyProj20.pdf
