@@ -1,0 +1,58 @@
+# Set working directory
+
+
+setwd("/Louis/Maitrise/TA/randomization") 
+
+# Import 
+
+data
+Seed<-read.table("data2010_ran.txt",nrow=11,header=T)
+head(Seed)
+
+
+
+## APROACH 1 ##
+#
+Randomization
+ran <- replicate(1000, anova(lm(sample(Seeds, 10,replace=FALSE) ~ Forest.structure, data=Seed))[1,4] )
+length(ran[ran<=11.419]) 
+
+length(ran[ran>11.419]) 
+
+length(ran[ran>11.419])/1000
+
+
+
+# Verify with the model
+
+
+Model<-lm(Seeds ~ Forest.structure, data=Seed)
+summary(Model)
+anova(Model)
+
+
+
+## APPROACH 2 ##
+
+seed.anova = lm(Seeds ~ Forest.structure, 
+data=Seed)
+teststat.obs = summary(seed.anova)$fstatistic[1]
+teststat = rep(NA, 1000)
+for(i in 1:1000)
+ 
+
+{
+  ### randomly "shuffle" the forest structure for the seeds
+  
+forestSHUFFLE = sample(Seed$Forest.structure)
+  
+
+### compute the F-statistic for the shuffled data
+  
+SHUFFLE.anova = lm(Seeds ~ forestSHUFFLE, data=Seed)
+  teststat[i] = summary(SHUFFLE.anova)$fstatistic[1]
+}
+
+
+### calculate the approximate p-value
+sum(teststat >= teststat.obs)/1000
