@@ -1,0 +1,5 @@
+Count Ltype Soil
+ 12 Pbsc Serp
+ 22 Smooth Serp
+ 16 Pbsc NonSerp
+ 50 Smooth NonSerp 

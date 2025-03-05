@@ -1,0 +1,58 @@
+              Death by horsekick, Prussian Army, by year and corps             1
+                   by year and duty, A=guard+first, B=2nd+3rd
+                 Guard only.  Poisson regression against year.
+                                                   23:21 Saturday, July 17, 2004
+
+                              The GENMOD Procedure
+
+                               Model Information
+
+                         Data Set              WORK.D2
+                         Distribution          Poisson
+                         Link Function             Log
+                         Dependent Variable      Count
+                         Observations Used          20
+
+
+                     Criteria For Assessing Goodness Of Fit
+ 
+          Criterion                 DF           Value        Value/DF
+
+          Deviance                  18         21.4387          1.1910
+          Scaled Deviance           18         21.4387          1.1910
+          Pearson Chi-Square        18         18.0556          1.0031
+          Scaled Pearson X2         18         18.0556          1.0031
+          Log Likelihood                      -19.2646                
+
+
+  Algorithm converged.                                                       
+
+
+                        Analysis Of Parameter Estimates
+ 
+                            Standard       Wald 95%          Chi-
+   Parameter  DF  Estimate     Error   Confidence Limits   Square  Pr > ChiSq
+
+   Intercept   1   64.0127   82.6058  -97.8917  225.9170     0.60      0.4384
+   Year        1   -0.0341    0.0439   -0.1201    0.0519     0.60      0.4369
+   Scale       0    1.0000    0.0000    1.0000    1.0000                     
+
+NOTE: The scale parameter was held fixed.
+
+
+                       LR Statistics For Type 1 Analysis
+ 
+                                                   Chi-
+           Source         Deviance        DF     Square    Pr > ChiSq
+
+           Intercept       22.0500                                   
+           Year            21.4387         1       0.61        0.4343
+
+
+                       LR Statistics For Type 3 Analysis
+ 
+                                            Chi-
+                  Source           DF     Square    Pr > ChiSq
+
+                  Year              1       0.61        0.4343
+plato> 

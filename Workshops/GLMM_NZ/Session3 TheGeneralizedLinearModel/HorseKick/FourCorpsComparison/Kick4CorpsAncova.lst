@@ -1,0 +1,267 @@
+              Death by horsekick, Prussian Army, by year and corps             1
+           by year and duty, A=guard+first , B=2nd+3rd 
+                                                 12:31 Thursday, January 1, 2004
+
+                              The GENMOD Procedure
+
+                               Model Information
+
+                         Data Set              WORK.D1
+                         Distribution          Poisson
+                         Link Function             Log
+                         Dependent Variable      Count
+                         Observations Used          80
+
+
+                            Class Level Information
+ 
+                 Class      Levels    Values
+
+                 Corps           4    first guard secon third 
+
+
+                     Criteria For Assessing Goodness Of Fit
+ 
+          Criterion                 DF           Value        Value/DF
+
+          Deviance                  72         96.0891          1.3346
+          Scaled Deviance           72         96.0891          1.3346
+          Pearson Chi-Square        72         87.7118          1.2182
+          Scaled Pearson X2         72         87.7118          1.2182
+          Log Likelihood                      -74.7489                
+
+
+  Algorithm converged.                                                       
+
+
+                        Analysis Of Parameter Estimates
+ 
+                                      Standard   Wald 95% Confidence      Chi-
+ Parameter            DF   Estimate      Error          Limits          Square
+
+ Intercept             1   -19.4174    94.4553   -204.546   165.7116      0.04
+ Corps        first    1   -45.0800   125.5462   -291.146   200.9859      0.13
+ Corps        guard    1    83.4301   125.4812   -162.508   329.3687      0.44
+ Corps        secon    1    -0.0000   133.5800   -261.812   261.8120      0.00
+ Corps        third    0     0.0000     0.0000     0.0000     0.0000       .  
+ Year                  1     0.0100     0.0501    -0.0882     0.1083      0.04
+
+ 
+                        Analysis Of Parameter Estimates
+ 
+                        Parameter            Pr > ChiSq
+
+                        Intercept                0.8371
+                        Corps        first       0.7195
+                        Corps        guard       0.5061
+                        Corps        secon       1.0000
+                        Corps        third        .    
+                        Year                     0.8413
+
+              Death by horsekick, Prussian Army, by year and corps             2
+           by year and duty, A=guard+first , B=2nd+3rd 
+                                                 12:31 Thursday, January 1, 2004
+
+                              The GENMOD Procedure
+
+                        Analysis Of Parameter Estimates
+ 
+                                      Standard   Wald 95% Confidence      Chi-
+ Parameter            DF   Estimate      Error          Limits          Square
+
+ Year*Corps   first    1     0.0241     0.0666    -0.1065     0.1546      0.13
+ Year*Corps   guard    1    -0.0441     0.0666    -0.1747     0.0864      0.44
+ Year*Corps   secon    1     0.0000     0.0709    -0.1389     0.1389      0.00
+ Year*Corps   third    0     0.0000     0.0000     0.0000     0.0000       .  
+ Scale                 0     1.0000     0.0000     1.0000     1.0000          
+
+ 
+                        Analysis Of Parameter Estimates
+ 
+                        Parameter            Pr > ChiSq
+
+                        Year*Corps   first       0.7178
+                        Year*Corps   guard       0.5076
+                        Year*Corps   secon       1.0000
+                        Year*Corps   third        .    
+                        Scale                          
+
+NOTE: The scale parameter was held fixed.
+
+
+                       LR Statistics For Type 1 Analysis
+ 
+                                                   Chi-
+          Source          Deviance        DF     Square    Pr > ChiSq
+
+          Intercept        98.5389                                   
+          Corps            97.3921         3       1.15        0.7658
+          Year             97.3577         1       0.03        0.8529
+          Year*Corps       96.0891         3       1.27        0.7366
+
+
+                       LR Statistics For Type 3 Analysis
+ 
+                                            Chi-
+                 Source            DF     Square    Pr > ChiSq
+
+                 Corps              2       1.12        0.5719
+                 Year               1       0.05        0.8313
+                 Year*Corps         3       1.27        0.7366
+
+              Death by horsekick, Prussian Army, by year and corps             3
+           by year and duty, A=guard+first, B=2nd+3rd 
+                                                 12:31 Thursday, January 1, 2004
+
+                              The GENMOD Procedure
+
+                               Model Information
+
+                         Data Set              WORK.D1
+                         Distribution          Poisson
+                         Link Function             Log
+                         Dependent Variable      Count
+                         Observations Used          80
+
+
+                            Class Level Information
+ 
+    Class      Levels    Values
+
+    Corps           4    first guard secon third                           
+    Year           20    1875 1876 1877 1878 1879 1880 1881 1882 1883 1884 
+                         1885 1886 1887 1888 1889 1890 1891 1892 1893 1894 
+
+
+
+
+                     Criteria For Assessing Goodness Of Fit
+ 
+          Criterion                 DF           Value        Value/DF
+
+          Deviance                   0          0.0000           .    
+          Scaled Deviance            0          0.0000           .    
+          Pearson Chi-Square         0          0.0000           .    
+          Scaled Pearson X2          0          0.0000           .    
+          Log Likelihood                      -26.7044                
+
+
+  WARNING: Negative of Hessian not positive definite.                        
+
+
+                        Analysis Of Parameter Estimates
+ 
+                                         Standard       Wald 95%          Chi-
+  Parameter                DF  Estimate     Error   Confidence Limits   Square
+
+  Intercept                 1  -22.3068  19743.07  -38718.0  38673.39     0.00
+  Corps       first         1    0.4054    0.9129   -1.3838    2.1946     0.20
+  Corps       guard         1   22.3068  19743.07  -38673.4  38718.01     0.00
+  Corps       secon         1   -0.0001    1.0000   -1.9601    1.9599     0.00
+
+ 
+                        Analysis Of Parameter Estimates
+ 
+                      Parameter                Pr > ChiSq
+
+                      Intercept                    0.9991
+                      Corps       first            0.6570
+                      Corps       guard            0.9991
+                      Corps       secon            0.9999
+
+  
+                      Corps*Year  third  1891       .    
+
+              Death by horsekick, Prussian Army, by year and corps             8
+           by year and duty, A=guard+first, B=2nd+3rd
+                                                 12:31 Thursday, January 1, 2004
+ 
+
+NOTE: The scale parameter was held fixed.
+
+
+                       LR Statistics For Type 1 Analysis
+ 
+                                                   Chi-
+          Source          Deviance        DF     Square    Pr > ChiSq
+
+          Intercept        98.5389                                   
+          Corps            97.3921         3       1.15        0.7658
+          Year             49.9004        19      47.49        0.0003
+          Corps*Year        0.0000        57      49.90        0.7362
+
+              Death by horsekick, Prussian Army, by year and corps             9
+           by year and duty, A=guard+first , B=2nd+3rd
+                                                 12:31 Thursday, January 1, 2004
+
+                              The GENMOD Procedure
+
+                               Model Information
+
+                         Data Set              WORK.D1
+                         Distribution          Poisson
+                         Link Function             Log
+                         Dependent Variable      Count
+                         Observations Used          80
+
+
+                            Class Level Information
+ 
+    Class      Levels    Values
+
+    Duty            2    A B                                               
+    Year           20    1875 1876 1877 1878 1879 1880 1881 1882 1883 1884 
+                         1885 1886 1887 1888 1889 1890 1891 1892 1893 1894 
+
+
+
+
+                     Criteria For Assessing Goodness Of Fit
+ 
+          Criterion                 DF           Value        Value/DF
+
+          Deviance                  40         21.8138          0.5453
+          Scaled Deviance           40         21.8138          0.5453
+          Pearson Chi-Square        40         16.3333          0.4083
+          Scaled Pearson X2         40         16.3333          0.4083
+          Log Likelihood                      -37.6113                
+
+
+  WARNING: Negative of Hessian not positive definite.                        
+
+
+                        Analysis Of Parameter Estimates
+ 
+                                        Standard       Wald 95%          Chi-
+   Parameter              DF  Estimate     Error   Confidence Limits   Square
+
+   Intercept               1  -24.1309    1.2247  -26.5314  -21.7305   388.20
+   Duty       A            1   23.4378    0.7071   22.0519   24.8237  1098.66
+   Duty       B            0    0.0000    0.0000    0.0000    0.0000      .  
+   Year       1875         1    0.0001  122863.9   -240809  240808.8     0.00
+
+ 
+                        Analysis Of Parameter Estimates
+ 
+                       Parameter              Pr > ChiSq
+
+                       Intercept                  <.0001
+                       Duty       A               <.0001
+                       Duty       B                .    
+                       Year       1875            1.0000
+
+
+
+NOTE: The scale parameter was held fixed.
+
+
+                       LR Statistics For Type 1 Analysis
+ 
+                                                   Chi-
+           Source         Deviance        DF     Square    Pr > ChiSq
+
+           Intercept       98.5389                                   
+           Duty            97.3921         1       1.15        0.2842
+           Year            49.9004        19      47.49        0.0003
+           Duty*Year       21.8138        19      28.09        0.0818
+
