@@ -1,0 +1,36 @@
+  1875  0  0  0  0
+  1876  2  0  0  0
+  1877  2  0  0  0
+  1878  1  2  2  2
+  1879  0  0  0  0
+  1880  0  3  2  2
+  1881  1  0  0  0
+  1882  1  2  0  0
+  1883  0  0  1  1
+  1884  3  0  1  1
+  1885  0  0  0  0
+  1886  2  1  0  0
+  1887  1  1  2  2
+  1888  0  1  1  1
+  1889  0  0  1  1
+  1890  1  2  0  0
+  1891  0  0  0  0
+  1892  1  3  2  2
+  1893  0  1  0  0
+  1894  1  0  0  0
+
+Number of deaths by horsekicks in the Prussian Army from 1875-1894
+Guard corps in column 2
+First corps in column 3
+Second corps in column 4
+Third corps in column 5
+
+Guard and First corps differ from Second and Third Corps.
+
+MTB > read 'kick.dat' into c1-c5;
+SUBC> nobs = 20.
+
+Does frequency of death by horsekick differ among the 4 corps ?
+Note that expected frequencies for cells in the table as it stands
+ fall well below 2, so you will have to aggregate to obtain a
+ table that can be analyzed.

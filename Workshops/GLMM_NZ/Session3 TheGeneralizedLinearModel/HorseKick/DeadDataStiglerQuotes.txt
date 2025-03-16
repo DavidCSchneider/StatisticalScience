@@ -1,0 +1,30 @@
+Quotes
+
+von Bortkiewicz had gone through these 100 volumes and selected the single statistic for death by horse kick,
+using the "over all" figure. 
+
+von Bortkewicz wanted to demonstrate what he called "the law of small numbers," to
+illustrate that any real differences (such as between years and between Corps of different sizes) would, for rare
+occurrences, be masked by the large Poisson variation. Ironically, the data he presented can in modern hands be
+used to demonstrate a converse of this. An analysis by generalized linear models will detect both Corps and
+year differences.
+
+In all three cases the example was grounded in real data. 
+In all three cases, the closer you examine the
+situation, the more complicated it becomes. 
+There was in each case a large degree of selection of data that was unreported. 
+There are errors of transcription and commission (Gossett, Fisher) 
+There are doubts about important aspects that cannot be answered at this point in time. 
+There are gains from such reexamination of old data—the story
+can become much richer statistically (as with von Bortkiewicz). 
+
+But after this investigation it is not possible to view them in the same way as before. 
+Scientifically, they are dead data.
+
+
+
+Stephen M. Stigler
+Data Have a Limited Shelf Life
+
+Harvard Data Science Review • Issue 1.2, Fall 2019
+Published on: Nov 30, 2020

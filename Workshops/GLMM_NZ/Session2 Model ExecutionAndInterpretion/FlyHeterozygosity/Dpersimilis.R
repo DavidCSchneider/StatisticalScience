@@ -1,0 +1,10 @@
+
+HzygM <- glm(HZYG~Elev_km, data=Brussard)
+aov(HzygM)
+loglik(HzygM)
+logLik(HzygM)
+anova.lm(HzygM)
+summary(HzygM)
+?AIC
+AIC(HzygM)
+extractAIC(HzygM)

@@ -1,0 +1,9 @@
+ Grp Y Treatment
+-1 42.9 untreated
+-1 41.6 untreated
+-1 28.9 untreated
+-1 30.8 untreated
++1 49.5 treated
++1 53.8 treated
++1 40.7 treated
++1 39.4 treated
